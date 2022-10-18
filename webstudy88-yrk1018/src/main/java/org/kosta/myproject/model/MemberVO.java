@@ -1,5 +1,7 @@
 package org.kosta.myproject.model;
 
-public class MemberVO {
+import java.io.Serializable;
+
+public class MemberVO implements Serializable{
 
 }
